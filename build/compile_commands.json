@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jwkim/vehicle-path-planning/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o CMakeFiles/conjugate_gradient.dir/main.cpp.o -c /home/jwkim/vehicle-path-planning/conjugate_gradient/main.cpp",
+  "file": "/home/jwkim/vehicle-path-planning/conjugate_gradient/main.cpp"
+}
+]
